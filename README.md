@@ -1,9 +1,7 @@
 # AutoPianoTile
 An Autoclicker for Piano Tiles.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="xzC3WPv"><a href="//imgur.com/xzC3WPv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
+![Demo](https://media.giphy.com/media/j0LeJfx4jyD7ZnvSJL/giphy.gif)
 
 ## Requirements:
 
