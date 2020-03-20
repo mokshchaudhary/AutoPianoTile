@@ -1,5 +1,5 @@
 # AutoPianoTile
-An Autoclicker for Piano Tiles.
+An Autoclicker for [Piano Tiles](https://poki.com/en/g/piano-tiles-2)
 
 ![Demo](https://media.giphy.com/media/j0LeJfx4jyD7ZnvSJL/giphy.gif)
 
